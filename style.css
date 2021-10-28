@@ -49,9 +49,9 @@ header {
     padding-right: 15px;
     position: absolute;
     z-index: 100;
-    top: 0;
-    left: 0;
-    right: 0;
+    top: 02;
+    left: 02;
+    right: 02;
     padding-top: 15px;
 }
 
