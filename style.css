@@ -107,7 +107,7 @@ img {
 .featured .featured__buttons button {
     font-size: 16px;
     color: white;
-    background-color: rgba(109,109,110,0.7);;
+    background-color: rgba(120, 120, 122, 0.7);;
     border: none;
     padding: 8px 24px;
     border-radius: 4px;
@@ -120,11 +120,11 @@ img {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(0,0,0,0.3);
+    background-color: rgba(0, 0, 0, 0.404);
 }
 
 .featured .featured__buttons .button__play {
-    background-color: white; 
+    background-color: rgba(255, 255, 255, 0.938); 
     color: black;
 }
 
